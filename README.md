@@ -16,3 +16,7 @@ On the side, I build web products for real businesses. It started as something p
 ## Interests
 
 Embedded systems - microcontrollers - firmware - C/C++ - and when I need a break from that, web design.
+
+## Certificates
+
+- [Microcontroller Embedded C Programming: Absolute Beginners](https://ude.my/UC-f0ffe3b2-51f3-4186-8283-5caa346fe105) - Udemy, FastBit Embedded Brain Academy (2026)
